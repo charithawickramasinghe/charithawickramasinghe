@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm **Charitha Wickramasinghe**, a passionate developer and photographer.
+
+## About Me
+- 🌐 I’m currently learning `.Net` and exploring freelance opportunities.
+- 📸 I love photography and plan to showcase my work soon!
+
+## Tools & Technologies
+- ⚙️ C#, .NET, SQL
+- 🌐 Selenium, PHP, Laravel
+- 🛠️ Visual Studio, GitHub, Docker
+
+## Find Me Online
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [GitHub](https://github.com/yourusername)
+
+Thanks for visiting my profile! 😊
