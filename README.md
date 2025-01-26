@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I'm **Charitha Wickramasinghe**, a passionate developer and photographer.
-
-## About Me
 - 👨‍💻 I’m currently working on `.NET`
 - 🌐 I’m currently learning `Laravel` and exploring freelance opportunities.
 - 📸 I love photography and plan to showcase my work soon!
