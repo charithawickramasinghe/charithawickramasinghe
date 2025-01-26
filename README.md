@@ -18,16 +18,17 @@ Here are some ideas to get you started:
 I'm **Charitha Wickramasinghe**, a passionate developer and photographer.
 
 ## About Me
-- 🌐 I’m currently learning `.Net` and exploring freelance opportunities.
+- 👨‍💻 I’m currently working on `.NET`
+- 🌐 I’m currently learning `Laravel` and exploring freelance opportunities.
 - 📸 I love photography and plan to showcase my work soon!
 
 ## Tools & Technologies
 - ⚙️ C#, .NET, SQL
 - 🌐 Selenium, PHP, Laravel
-- 🛠️ Visual Studio, GitHub, Docker
+- 🛠️ VS Code, GitHub, Docker
 
 ## Find Me Online
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/charithacw)
+- [GitHub](https://github.com/charithawickramasinghe)
 
 Thanks for visiting my profile! 😊
