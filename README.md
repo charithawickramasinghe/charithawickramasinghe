@@ -27,6 +27,5 @@ I'm **Charitha Wickramasinghe**, a passionate developer and photographer.
 
 ## Find Me Online
 - [LinkedIn](https://linkedin.com/in/charithacw)
-- [GitHub](https://github.com/charithawickramasinghe)
 
 Thanks for visiting my profile! 😊
